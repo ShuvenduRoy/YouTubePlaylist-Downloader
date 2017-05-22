@@ -2,9 +2,9 @@
 Automation written in JAVA(Works in all Platforms)
 
 
-# NOTE: Work on system having JAVA installed or You can simply download JAVA JDK from internet and set Path in Environment Variables
+<B>NOTE: Work on system having JAVA installed or You can simply download JAVA JDK from internet and set Path in Environment Variables</b>
 
-*********Step to use********** <br>
+#*********Step to use********** <br>
 Clone or download zip file in your system
 1. Extract zip file 
 2. Click on run file
