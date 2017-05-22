@@ -18,7 +18,7 @@ public class main {
 
     public static void main(String[] args) throws IOException, InterruptedException {
         Scanner scan = new Scanner(System.in);
-        System.out.println("*****CREATED BY AVINASH DHILLOR*****");
+        System.out.println("*****Author: Shuvendu Roy Bikash");
         System.out.println("NOTE:If you want to Downlaod full Playlist \n     then START point will be 0 and \n     END point will also be 0 \n(E.g. PlayListlink 0 0)\n             OR\nIf you want a particular range then \n(E.g. PlayListlink 2 19)");
         System.out.println("\n");
         System.out.println("Enter Youtube Playlist Link followed by START POINT and END POINT:");
