@@ -8,9 +8,7 @@ import java.io.IOException;
 import java.util.Scanner;
 import java.util.Vector;
 
-/**
- * Created by Avinash Dhillor on 3/24/2017.
- */
+
 public class main {
 
     private static String addlink = "https://www.youtube.com/watch?v=";
